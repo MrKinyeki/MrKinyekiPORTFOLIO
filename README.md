@@ -1,10 +1,8 @@
-# 🏄‍♂️ Mr. Eric T Kinyeki
+# 🫡 Mr. Eric T Kinyeki
 
-**`Digital Craftsman (Lecturer/Filmmaker/Creator/
+**`THE DIGITAL CRAFTSMAN (Lecturer/Filmmaker/Creator/IT Support/Cloud/HelpDesk Analyst NOC Technician)`**
 
-                     IT Support/Cloud/ )`**
-
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I am an IT and Multimedia Specialist, Consultant, University Lecturer, and Head of Riara University Studio, all with 15+ years of experience. I specialize in root cause analysis, identifying and resolving tier i—iii issues, customer relationship management CRM, designing ticketing tools, and end-user operations and training. Alternatively, I also possess vast experience in Audio and video production and documentary filmmaking…. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
