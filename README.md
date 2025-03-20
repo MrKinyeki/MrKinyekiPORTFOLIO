@@ -1,19 +1,14 @@
 <h1><h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=7000&lines=Hi+WORLD!+;+I'm+ERIC+T.+KINYEKI!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+WORLD!+;+I'm+ERIC+T.+KINYEKI!;" />
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="70px" height="70px"></h1> 
 
 </h1><img align='right' src="https://i.imgur.com/GYW0EXN.gif" width="257" />
 
 
+`ERIC THE DIGITAL CRAFTSMAN👨🏽‍💻
+(Lecturer & Consultant in  IT & MultiMedia`
 
-
-
-
-
-
-**`THE DIGITAL CRAFTSMAN (Lecturer/Filmmaker/Creator/IT Support/Cloud/HelpDesk Analyst NOC Technician)`**
-
-I am an IT and Multimedia Specialist, Consultant, University Lecturer, and Head of Riara University Studio, all with 15+ years of experience. I specialize in root cause analysis, identifying and resolving tier i—iii issues, customer relationship management CRM, designing ticketing tools, and end-user operations and training. Alternatively, I also possess vast experience in Audio and video production and documentary filmmaking…. 
+I am an IT and Multimedia Specialist, Consultant, University Lecturer, and Head of Riara University Studio, all with 15+ years of experience. I specialize in root cause analysis, identifying and resolving tier i—iii issues, IT Support/Cloud/HelpDesk Analyst NOC Technician, customer relationship management CRM, designing ticketing tools, and end-user operations and training. Alternatively, I also possess vast experience in Audio and video production and documentary filmmaking…. 
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
