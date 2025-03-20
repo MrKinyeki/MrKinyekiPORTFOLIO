@@ -6,7 +6,7 @@
 
 
 `ERIC THE DIGITAL CRAFTSMAN👨🏽‍💻
-(Lecturer & Consultant in  IT & MultiMedia`
+(University Lecturer, Consultant & IT Support in IT & MultiMedia`
 
 I am an IT and Multimedia Specialist, Consultant, University Lecturer, and Head of Riara University Studio, all with 15+ years of experience. I specialize in root cause analysis, identifying and resolving tier i—iii issues, IT Support/Cloud/HelpDesk Analyst NOC Technician, customer relationship management CRM, designing ticketing tools, and end-user operations and training. Alternatively, I also possess vast experience in Audio and video production and documentary filmmaking…. 
 
